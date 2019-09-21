@@ -1,5 +1,3 @@
-# SwiftUIとInterface Builder(Storyboard, xib, etc.)
-
 # SwiftUIとInterface Builderの比較
 
 SwiftUIとInterface Builderを知らない方に簡単に両方がどのようなものなのか説明をしたいと思います。

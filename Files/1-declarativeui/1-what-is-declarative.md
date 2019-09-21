@@ -1,7 +1,5 @@
 # SwiftUIでImperativeUIからDeclarativeUIに
 
-# Declarative、Imperativeとは
-
 プログラミングにおけるDeclarative（宣言的）とはどの様な状態になって欲しいかを書くことで、Imperative（命令的）とは何をするかを書くことです。
 これだけだと書いている自分でも何を言っているの分からないので例を出して説明したいと思います。
 
