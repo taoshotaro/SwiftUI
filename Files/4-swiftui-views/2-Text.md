@@ -56,6 +56,6 @@ Text("Hello World") != Text("Hello World") // false
 Text("Hello ") + Text("World").italic()
 ```
 
-### 実際のサンプルコードは[こちら](../../TechBookFest/TechBookFest/Views/ButtonView.swift)
+### 実際のサンプルコードは[こちら](../../TechBookFest/TechBookFest/Views/TextView.swift)
 
 [TextField >](3-TextField.md)

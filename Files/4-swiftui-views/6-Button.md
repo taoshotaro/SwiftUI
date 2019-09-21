@@ -27,4 +27,6 @@ Button(action: {
 
 <img src="../../Resources/4-button2.png">
 
+### 実際のサンプルコードは[こちら](../../TechBookFest/TechBookFest/Views/ButtonView.swift)
+
 [NavigationLink >](7-NavigationLink.md)

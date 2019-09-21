@@ -33,4 +33,6 @@ Image(systemName: "faceid")
 
 <img src="../../Resources/4-image3.png"/>
 
+### 実際のサンプルコードは[こちら](../../TechBookFest/TechBookFest/Views/ImageView.swift)
+
 [Button >](6-Button.md)

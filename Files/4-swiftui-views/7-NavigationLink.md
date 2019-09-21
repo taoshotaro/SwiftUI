@@ -17,4 +17,6 @@ NavigationView {
 }
 ```
 
+### 実際のサンプルコードは[こちら](../../TechBookFest/TechBookFest/Views/NavigationLinkView.swift)
+
 WIP
