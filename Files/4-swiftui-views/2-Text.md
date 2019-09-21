@@ -46,14 +46,16 @@ Text("Hello World")
 利用できる演算子
 
 ```Swift
-// (Text, Text) -> Bool
+// == (Text, Text) -> Bool
 Text("Hello World") == Text("Hello World") // true
 
-// (Text, Text) -> Bool
+// != (Text, Text) -> Bool
 Text("Hello World") != Text("Hello World") // false
 
-// (Text, Text) -> Text
+// + (Text, Text) -> Text
 Text("Hello ") + Text("World").italic()
 ```
+
+実際のサンプルコードは[こちら](../../TechBookFest/TechBookFest/Views/ButtonView.swift)
 
 [TextField >](3-TextField.md)

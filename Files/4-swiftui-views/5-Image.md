@@ -18,7 +18,7 @@ Image(systemName: "faceid")
 
 ```Swift
 Image(systemName: "faceid")
-    .frame(width: 100, height: 100, alignment: .leading)
+    .frame(width: 100, height: 100, alignment: .center)
     .background(Color.green)
 ```
 
@@ -27,7 +27,7 @@ Image(systemName: "faceid")
 ```Swift
 Image(systemName: "faceid")
     .resizable()
-    .frame(width: 100, height: 100, alignment: .leading)
+    .frame(width: 100, height: 100, alignment: .center)
     .background(Color.green)
 ```
 
