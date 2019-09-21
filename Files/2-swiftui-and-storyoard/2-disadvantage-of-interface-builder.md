@@ -1,4 +1,4 @@
-## Interface Builderの欠点
+# Interface Builderの欠点
 
 初めてiOSアプリの開発を行う際に一番最初に学ぶのが、Interface Builderを使ったUIの作成です。最初はStoryboard上のViewControllerにUIコンポーネントをドラッグ&ドロップするだけで画面が出来上がるので、コードを使ってUIを作る他の言語よりも簡単に始めることが出来ます。実行する前にUIが画面上に表示されているというのもFontの変更や色の変更がしやすく便利です。
 

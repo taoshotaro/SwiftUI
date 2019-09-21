@@ -1,4 +1,4 @@
-## Declarative UIとImperative UIの例
+# Declarative UIとImperative UIの例
 
 #### Declarative UI
 

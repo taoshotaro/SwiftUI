@@ -1,4 +1,4 @@
-## Declarative UIとImperative UIにおけるUIの変更方法
+# Declarative UIとImperative UIにおけるUIの変更方法
 
 ユーザーがログインしている時のみ名前を表示するような状態によってUIが変わる場合はどうなるでしょうか？
 
